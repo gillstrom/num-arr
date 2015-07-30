@@ -1,0 +1,34 @@
+{
+  "name": "num-arr",
+  "version": "0.0.0",
+  "description": "Separate an integer into an array of digits.",
+  "license": "MIT",
+  "repository": "gillstrom/num-arr",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "arr",
+    "array",
+    "digit",
+    "digits",
+    "integer",
+    "num",
+    "number",
+    "separate"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
