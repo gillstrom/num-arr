@@ -28,6 +28,9 @@
     "number",
     "separate"
   ],
+  "dependencies": {
+    "number-is-integer": "^1.0.0"
+  },
   "devDependencies": {
     "mocha": "*"
   }
