@@ -4,5 +4,5 @@ module.exports = function (val) {
 		throw new TypeError('Expected an integer');
 	}
 
-	return (val).toString().split('').map(Number);
+	return val.toString().split('').map(Number);
 };
