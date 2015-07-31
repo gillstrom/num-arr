@@ -1,7 +1,7 @@
 {
   "name": "num-arr",
   "version": "1.0.0",
-  "description": "Separate an integer into an array of digits.",
+  "description": "Split an integer into an array of digits.",
   "license": "MIT",
   "repository": "gillstrom/num-arr",
   "author": {
