@@ -13,7 +13,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "xo && mocha"
   },
   "files": [
     "index.js"
@@ -26,12 +26,14 @@
     "integer",
     "num",
     "number",
-    "separate"
+    "separate",
+    "split"
   ],
   "dependencies": {
     "number-is-integer": "^1.0.0"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "*",
+    "xo": "*"
   }
 }
